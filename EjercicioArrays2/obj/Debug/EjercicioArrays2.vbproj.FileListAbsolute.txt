@@ -1,0 +1,11 @@
+C:\Users\loren\source\repos\EjercicioArrays2\EjercicioArrays2\bin\Debug\EjercicioArrays2.exe.config
+C:\Users\loren\source\repos\EjercicioArrays2\EjercicioArrays2\bin\Debug\EjercicioArrays2.exe
+C:\Users\loren\source\repos\EjercicioArrays2\EjercicioArrays2\bin\Debug\EjercicioArrays2.pdb
+C:\Users\loren\source\repos\EjercicioArrays2\EjercicioArrays2\bin\Debug\EjercicioArrays2.xml
+C:\Users\loren\source\repos\EjercicioArrays2\EjercicioArrays2\obj\Debug\EjercicioArrays2.vbprojResolveAssemblyReference.cache
+C:\Users\loren\source\repos\EjercicioArrays2\EjercicioArrays2\obj\Debug\EjercicioArrays2.Resources.resources
+C:\Users\loren\source\repos\EjercicioArrays2\EjercicioArrays2\obj\Debug\EjercicioArrays2.vbproj.GenerateResource.Cache
+C:\Users\loren\source\repos\EjercicioArrays2\EjercicioArrays2\obj\Debug\EjercicioArrays2.vbproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\EjercicioArrays2\EjercicioArrays2\obj\Debug\EjercicioArrays2.exe
+C:\Users\loren\source\repos\EjercicioArrays2\EjercicioArrays2\obj\Debug\EjercicioArrays2.xml
+C:\Users\loren\source\repos\EjercicioArrays2\EjercicioArrays2\obj\Debug\EjercicioArrays2.pdb
